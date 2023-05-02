@@ -1,0 +1,11 @@
+D:\ООП\l5\bin\Debug\l5.exe.config
+D:\ООП\l5\bin\Debug\l5.exe
+D:\ООП\l5\bin\Debug\l5.pdb
+D:\ООП\l5\obj\Debug\l5.csproj.AssemblyReference.cache
+D:\ООП\l5\obj\Debug\l5.csproj.SuggestedBindingRedirects.cache
+D:\ООП\l5\obj\Debug\l5.Form1.resources
+D:\ООП\l5\obj\Debug\l5.Properties.Resources.resources
+D:\ООП\l5\obj\Debug\l5.csproj.GenerateResource.cache
+D:\ООП\l5\obj\Debug\l5.csproj.CoreCompileInputs.cache
+D:\ООП\l5\obj\Debug\l5.exe
+D:\ООП\l5\obj\Debug\l5.pdb
