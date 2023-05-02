@@ -1,0 +1,17 @@
+D:\ООП\l4\bin\Debug\net6.0-windows\l4.exe
+D:\ООП\l4\bin\Debug\net6.0-windows\l4.deps.json
+D:\ООП\l4\bin\Debug\net6.0-windows\l4.runtimeconfig.json
+D:\ООП\l4\bin\Debug\net6.0-windows\l4.dll
+D:\ООП\l4\bin\Debug\net6.0-windows\l4.pdb
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.csproj.AssemblyReference.cache
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.Form1.resources
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.csproj.GenerateResource.cache
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.AssemblyInfoInputs.cache
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.AssemblyInfo.cs
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.csproj.CoreCompileInputs.cache
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.dll
+D:\ООП\l4\obj\Debug\net6.0-windows\refint\l4.dll
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.pdb
+D:\ООП\l4\obj\Debug\net6.0-windows\l4.genruntimeconfig.cache
+D:\ООП\l4\obj\Debug\net6.0-windows\ref\l4.dll
