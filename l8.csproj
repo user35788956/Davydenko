@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1215322_add_create_document_file_icon.png" />
+    <None Remove="1608746_italic_icon.png" />
+    <None Remove="2530798_average image_image_images_landscape_photography_icon.png" />
+    <None Remove="285657_floppy_guardar_save_icon.png" />
+    <None Remove="299048_folder_document_icon.png" />
+    <None Remove="3671648_align_center_icon.png" />
+    <None Remove="3671651_align_right_icon.png" />
+    <None Remove="8664984_align_justify_icon.png" />
+    <None Remove="8664990_bold_text_icon.png" />
+    <None Remove="8665831_underline_text_icon.png" />
+    <None Remove="9054365_bx_align_left_icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1215322_add_create_document_file_icon.png" />
+    <Resource Include="1608746_italic_icon.png" />
+    <Resource Include="2530798_average image_image_images_landscape_photography_icon.png" />
+    <Resource Include="285657_floppy_guardar_save_icon.png" />
+    <Resource Include="299048_folder_document_icon.png" />
+    <Resource Include="3671648_align_center_icon.png" />
+    <Resource Include="3671651_align_right_icon.png" />
+    <Resource Include="8664984_align_justify_icon.png" />
+    <Resource Include="8664990_bold_text_icon.png" />
+    <Resource Include="8665831_underline_text_icon.png" />
+    <Resource Include="9054365_bx_align_left_icon.png" />
+  </ItemGroup>
+
+</Project>
